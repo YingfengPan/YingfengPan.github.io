@@ -1,4 +1,4 @@
-# Hellow World
+# Hello World
 This is my home page! My name is Yingfeng Pan and I am a student at Cal State Fullerton(http://www.fullerton.edu/) and my major is Acccounting.
 ## Computer Science Projects
 My GitHub page is http://github.com/YingfengPan
